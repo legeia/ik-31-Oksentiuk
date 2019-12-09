@@ -1,0 +1,183 @@
+INFO 2019-12-09 16:17:55,310 root : Сервер доступний. Час на сервері: 2019-12-09T14:17:55.265
+INFO 2019-12-09 16:17:55,310 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:17:55,310 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:17:55,310 root : Ключ: date, Значення: 2019-12-09T14:17:55.265
+INFO 2019-12-09 16:17:55,310 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:17:55,310 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:17:55,310 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:18:55,437 root : Сервер доступний. Час на сервері: 2019-12-09T14:18:55.393
+INFO 2019-12-09 16:18:55,437 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:18:55,437 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:18:55,437 root : Ключ: date, Значення: 2019-12-09T14:18:55.393
+INFO 2019-12-09 16:18:55,437 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:18:55,437 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:18:55,437 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:19:55,553 root : Сервер доступний. Час на сервері: 2019-12-09T14:19:55.510
+INFO 2019-12-09 16:19:55,554 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:19:55,554 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:19:55,554 root : Ключ: date, Значення: 2019-12-09T14:19:55.510
+INFO 2019-12-09 16:19:55,554 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:19:55,554 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:19:55,554 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:20:55,673 root : Сервер доступний. Час на сервері: 2019-12-09T14:20:55.628
+INFO 2019-12-09 16:20:55,673 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:20:55,673 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:20:55,673 root : Ключ: date, Значення: 2019-12-09T14:20:55.628
+INFO 2019-12-09 16:20:55,673 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:20:55,673 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:20:55,673 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:21:55,790 root : Сервер доступний. Час на сервері: 2019-12-09T14:21:55.746
+INFO 2019-12-09 16:21:55,790 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:21:55,790 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:21:55,790 root : Ключ: date, Значення: 2019-12-09T14:21:55.746
+INFO 2019-12-09 16:21:55,790 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:21:55,790 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:21:55,790 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:22:55,897 root : Сервер доступний. Час на сервері: 2019-12-09T14:22:55.855
+INFO 2019-12-09 16:22:55,897 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:22:55,897 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:22:55,897 root : Ключ: date, Значення: 2019-12-09T14:22:55.855
+INFO 2019-12-09 16:22:55,898 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:22:55,898 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:22:55,898 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:23:56,014 root : Сервер доступний. Час на сервері: 2019-12-09T14:23:55.969
+INFO 2019-12-09 16:23:56,014 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:23:56,014 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:23:56,014 root : Ключ: date, Значення: 2019-12-09T14:23:55.969
+INFO 2019-12-09 16:23:56,014 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:23:56,014 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:23:56,014 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:24:56,125 root : Сервер доступний. Час на сервері: 2019-12-09T14:24:56.080
+INFO 2019-12-09 16:24:56,125 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:24:56,125 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:24:56,125 root : Ключ: date, Значення: 2019-12-09T14:24:56.080
+INFO 2019-12-09 16:24:56,125 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:24:56,126 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:24:56,126 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:25:56,234 root : Сервер доступний. Час на сервері: 2019-12-09T14:25:56.192
+INFO 2019-12-09 16:25:56,235 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:25:56,235 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:25:56,235 root : Ключ: date, Значення: 2019-12-09T14:25:56.192
+INFO 2019-12-09 16:25:56,235 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:25:56,235 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:25:56,235 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:26:56,337 root : Сервер доступний. Час на сервері: 2019-12-09T14:26:56.295
+INFO 2019-12-09 16:26:56,337 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:26:56,337 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:26:56,337 root : Ключ: date, Значення: 2019-12-09T14:26:56.295
+INFO 2019-12-09 16:26:56,337 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:26:56,337 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:26:56,337 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:27:56,437 root : Сервер доступний. Час на сервері: 2019-12-09T14:27:56.393
+INFO 2019-12-09 16:27:56,437 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:27:56,437 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:27:56,438 root : Ключ: date, Значення: 2019-12-09T14:27:56.393
+INFO 2019-12-09 16:27:56,438 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:27:56,438 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:27:56,438 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:28:56,545 root : Сервер доступний. Час на сервері: 2019-12-09T14:28:56.503
+INFO 2019-12-09 16:28:56,546 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:28:56,546 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:28:56,546 root : Ключ: date, Значення: 2019-12-09T14:28:56.503
+INFO 2019-12-09 16:28:56,546 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:28:56,546 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:28:56,546 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:29:56,658 root : Сервер доступний. Час на сервері: 2019-12-09T14:29:56.612
+INFO 2019-12-09 16:29:56,660 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:29:56,661 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:29:56,661 root : Ключ: date, Значення: 2019-12-09T14:29:56.612
+INFO 2019-12-09 16:29:56,661 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:29:56,661 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:29:56,661 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:30:56,773 root : Сервер доступний. Час на сервері: 2019-12-09T14:30:56.729
+INFO 2019-12-09 16:30:56,773 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:30:56,773 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:30:56,773 root : Ключ: date, Значення: 2019-12-09T14:30:56.729
+INFO 2019-12-09 16:30:56,774 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:30:56,774 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:30:56,774 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:31:56,885 root : Сервер доступний. Час на сервері: 2019-12-09T14:31:56.841
+INFO 2019-12-09 16:31:56,886 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:31:56,886 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:31:56,886 root : Ключ: date, Значення: 2019-12-09T14:31:56.841
+INFO 2019-12-09 16:31:56,886 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:31:56,887 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:31:56,887 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:32:56,997 root : Сервер доступний. Час на сервері: 2019-12-09T14:32:56.954
+INFO 2019-12-09 16:32:56,998 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:32:56,998 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:32:56,998 root : Ключ: date, Значення: 2019-12-09T14:32:56.954
+INFO 2019-12-09 16:32:56,998 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:32:56,998 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:32:56,998 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:33:57,113 root : Сервер доступний. Час на сервері: 2019-12-09T14:33:57.070
+INFO 2019-12-09 16:33:57,114 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:33:57,114 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:33:57,115 root : Ключ: date, Значення: 2019-12-09T14:33:57.070
+INFO 2019-12-09 16:33:57,115 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:33:57,115 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:33:57,115 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:34:57,221 root : Сервер доступний. Час на сервері: 2019-12-09T14:34:57.176
+INFO 2019-12-09 16:34:57,221 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:34:57,221 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:34:57,221 root : Ключ: date, Значення: 2019-12-09T14:34:57.176
+INFO 2019-12-09 16:34:57,221 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:34:57,221 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:34:57,222 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:35:57,322 root : Сервер доступний. Час на сервері: 2019-12-09T14:35:57.277
+INFO 2019-12-09 16:35:57,322 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:35:57,322 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:35:57,322 root : Ключ: date, Значення: 2019-12-09T14:35:57.277
+INFO 2019-12-09 16:35:57,322 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:35:57,323 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:35:57,323 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:36:57,438 root : Сервер доступний. Час на сервері: 2019-12-09T14:36:57.396
+INFO 2019-12-09 16:36:57,439 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:36:57,439 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:36:57,439 root : Ключ: date, Значення: 2019-12-09T14:36:57.396
+INFO 2019-12-09 16:36:57,439 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:36:57,439 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:36:57,439 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 16:37:57,554 root : Сервер доступний. Час на сервері: 2019-12-09T14:37:57.511
+INFO 2019-12-09 16:37:57,555 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 16:37:57,555 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 16:37:57,555 root : Ключ: date, Значення: 2019-12-09T14:37:57.511
+INFO 2019-12-09 16:37:57,555 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 16:37:57,555 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': 'oksentiuk-VirtualBox', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-12-09 16:37:57,556 root : Ключ: client_info, Значення: python-requests/2.22.0
+ERROR 2019-12-09 16:38:57,618 root : Сервер недоступний. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7feae7c950d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2019-12-09 15:15:51,334 root : Сервер доступний. Час на сервері: 2019-12-09T15:15:51.289
+INFO 2019-12-09 15:15:51,334 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 15:15:51,335 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 15:15:51,335 root : Ключ: date, Значення: 2019-12-09T15:15:51.289
+INFO 2019-12-09 15:15:51,335 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 15:15:51,335 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '84552e1203a4', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-09 15:15:51,335 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 15:16:51,474 root : Сервер доступний. Час на сервері: 2019-12-09T15:16:51.422
+INFO 2019-12-09 15:16:51,474 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 15:16:51,474 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 15:16:51,475 root : Ключ: date, Значення: 2019-12-09T15:16:51.422
+INFO 2019-12-09 15:16:51,475 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 15:16:51,475 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '84552e1203a4', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-09 15:16:51,475 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 15:17:51,586 root : Сервер доступний. Час на сервері: 2019-12-09T15:17:51.543
+INFO 2019-12-09 15:17:51,587 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 15:17:51,587 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 15:17:51,587 root : Ключ: date, Значення: 2019-12-09T15:17:51.543
+INFO 2019-12-09 15:17:51,587 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 15:17:51,587 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '84552e1203a4', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-09 15:17:51,588 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 15:18:51,702 root : Сервер доступний. Час на сервері: 2019-12-09T15:18:51.657
+INFO 2019-12-09 15:18:51,703 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 15:18:51,703 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 15:18:51,703 root : Ключ: date, Значення: 2019-12-09T15:18:51.657
+INFO 2019-12-09 15:18:51,703 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 15:18:51,703 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '84552e1203a4', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-09 15:18:51,703 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-12-09 15:19:51,818 root : Сервер доступний. Час на сервері: 2019-12-09T15:19:51.772
+INFO 2019-12-09 15:19:51,818 root : Запитувана сторінка: : /health/
+INFO 2019-12-09 15:19:51,818 root : Відповідь сервера місти наступні поля:
+INFO 2019-12-09 15:19:51,819 root : Ключ: date, Значення: 2019-12-09T15:19:51.772
+INFO 2019-12-09 15:19:51,819 root : Ключ: current_page, Значення: /health/
+INFO 2019-12-09 15:19:51,819 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019', 'release': '5.0.0-37-generic', 'network name': '84552e1203a4', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-12-09 15:19:51,819 root : Ключ: client_info, Значення: python-requests/2.22.0
