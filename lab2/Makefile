@@ -21,5 +21,5 @@ run:
 deploy:
 	@echo "Adding and Committing results.txt to git."
 	git add results.txt
-	git commit -m "Lab_2: Automate commit from makefile"
+	git commit -m "Lab2: Commit from make"
 	git push
